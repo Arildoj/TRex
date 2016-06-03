@@ -33,7 +33,7 @@ I use the Canvas Element HTML for draw the images and TimeInterval to control th
 The images were dimensionality in 50 x 50 pixels and the Canvas Element in 500 x 200 pixels.
 
 
-The structure compose for:
+The structure is compose for:
 
 + **Groud layer** with 15 images
 + **Dinosaur** with 4 images
