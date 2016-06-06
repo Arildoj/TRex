@@ -27,7 +27,7 @@ Because your interface is simple (2D) and involve dynamics objects.
 The project using simple CSS interface in html to drawing the content, where is running the game. <br/>
 **Mechanics** is responsible to interaction between the dinosaur and the elements in the game (cactus), your behavior and actions. <br/>
 **Collision** is responsible to recognize when the dinosaur and the cactus are the same position. <br/>
-**Cenery Movement** is the movement of objects and obstacle displayed.<br/>
+**Scenery Movement** is the movement of objects and obstacle displayed.<br/>
 
 I use the Canvas Element HTML for draw the images and TimeInterval to control the functions with different execution times. All develop was made for me learn the JavaScript code and improve my skills. You can use it for any propose.<br/>
 The images were dimensionality in 50 x 50 pixels and the Canvas Element in 500 x 200 pixels.
